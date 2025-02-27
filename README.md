@@ -1,6 +1,6 @@
 # 500 Slides describing your Project Proposal Draft 2 Work
 
-- To be discussed in [Class 7 (2025-02-27)](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class07)
+- We discussed these six in [Class 7 (2025-02-27)](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class07)
 
 Investigator | Title
 :------------: | :------------------------------------------------------
