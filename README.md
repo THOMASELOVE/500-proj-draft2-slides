@@ -1,4 +1,7 @@
-# 500-proj-draft2-slides
+# 500 Slides describing your Project Proposal Draft 2 Work
+
+To be discussed in class (mostly) in [Class 7 (2025-02-27)](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class07)
+
 
 Investigator | Title
 :------------: | :------------------------------------------------------
@@ -7,9 +10,9 @@ Jiawei Yu | [The Impact of Time Lived in the United States on Adult Food Securit
 Logan Harper | [Glucocorticoid toxicity in a prospective international survey of sarcoidosis patients](https://thomaselove.github.io/500-proj-draft2-slides/slides/logan_draft2.html)
 Tatchaporn Ongphichetmetha | [Impact of Non-Adherence to Inhaled Corticosteroids on Asthma Control in Adult Patients](https://thomaselove.github.io/500-proj-draft2-slides/slides/tatchaporn_draft2.html)
 Trisha Lal | [Preventable Hospitalizations in Rural and Non-Rural Counties in the Midwest Based on 2024 County Health Rankings](https://thomaselove.github.io/500-proj-draft2-slides/slides/trisha_draft2.html)
-Sarah Albalawi | [Sarah_Slides](https://thomaselove.github.io/500-proj-draft2-slides/slides/sarah_draft2.html)
-Kelly Bowen | [Kelly_Slides](https://thomaselove.github.io/500-proj-draft2-slides/slides/kelly_draft2.html)
-Katie Hassett | [Katie_Slides](https://thomaselove.github.io/500-proj-draft2-slides/slides/katie_draft2.html)
-Anika Krishna | [Anika_Slides](https://thomaselove.github.io/500-proj-draft2-slides/slides/anika_draft2.html)
-Olivia Lindberg | [Olivia_Slides](https://thomaselove.github.io/500-proj-draft2-slides/slides/olivia_draft2.html)
-Ajay Mahenthiran | [Ajay_Slides](https://thomaselove.github.io/500-proj-draft2-slides/slides/ajay_draft2.html)
+Sarah Albalawi | [Predicting Head and Neck Squamous Cell Carcinoma (HNSCC) Primary Sites using HPV Status](https://thomaselove.github.io/500-proj-draft2-slides/slides/sarah_draft2.html)
+Kelly Bowen | [Effect of Metformin on Liver Health in a Sample of Patients with Diabetes](https://thomaselove.github.io/500-proj-draft2-slides/slides/kelly_draft2.html)
+Katie Hassett | [Impact of Antihypertensive Therapy on Hematoma Expansion in Intracerebral Hemorrhage](https://thomaselove.github.io/500-proj-draft2-slides/slides/katie_draft2.html)
+Anika Krishna | [Framing Mental Illness: Racial Disparities in Police Killings](https://thomaselove.github.io/500-proj-draft2-slides/slides/anika_draft2.html)
+Olivia Lindberg | [Substance Use and Social Development in Young Adults](https://thomaselove.github.io/500-proj-draft2-slides/slides/olivia_draft2.html)
+Ajay Mahenthiran | [Limited Choices, Higher Risks: How Food Access Shapes Diabetes Prevalence](https://thomaselove.github.io/500-proj-draft2-slides/slides/ajay_draft2.html)
