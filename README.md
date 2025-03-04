@@ -18,6 +18,6 @@ Investigator | Title
 Kelly Bowen | [Effect of Metformin on Liver Health in a Sample of Patients with Diabetes](https://thomaselove.github.io/500-proj-draft2-slides/slides/kelly_draft2.html)
 Katie Hassett | [Impact of Antihypertensive Therapy on Hematoma Expansion in Intracerebral Hemorrhage](https://thomaselove.github.io/500-proj-draft2-slides/slides/katie_draft2.html)
 Olivia Lindberg | [Substance Use and Social Development in Young Adults](https://thomaselove.github.io/500-proj-draft2-slides/slides/olivia_draft2.html)
-Sarah Albalawi | [Predicting Head and Neck Squamous Cell Carcinoma (HNSCC) Clinical Sites using HPV Status](https://thomaselove.github.io/500-proj-draft2-slides/slides/sarah_draft2.html)
+Sarah Albalawi | [Dental Ratio: A Key to Reducing Adult Smoking and Excessive Drinking in US Counties](https://thomaselove.github.io/500-proj-draft2-slides/slides/sarah_draft2.html)
 Tatchaporn Ongphichetmetha | [Impact of Non-Adherence to Inhaled Corticosteroids on Asthma Control in Adult Patients](https://thomaselove.github.io/500-proj-draft2-slides/slides/tatchaporn_draft2.html)
 
